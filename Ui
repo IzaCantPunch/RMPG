@@ -39,7 +39,7 @@ local Themes = {
 	},
 	SpeedHubX = {
 		Name = "SpeedHubX",
-		Accent = Color3.fromRGB(255, 0, 0),
+		Accent = Color3.fromRGB(0, 0, 255),
 
 		AcrylicMain = Color3.fromRGB(20, 20, 30),
 		AcrylicBorder = Color3.fromRGB(40, 40, 60), 
