@@ -142,8 +142,8 @@ local function CloseOpen()
 	Close_ImageButton.Size = UDim2.new(0, 59, 0, 49)
 
 	-- Icons used by the floating button (change IDs if you want custom assets)
-	local closeIcon = "rbxassetid://129069615357738" -- preserved from pasted2.txt
-	local showIcon  = "rbxassetid://10723346959" -- eye icon fallback; change if you prefer another
+	local closeIcon = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=117010966280113" -- preserved from pasted2.txt
+	local showIcon  = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=117010966280113" -- eye icon fallback; change if you prefer another
 
 	-- Default to the close icon but hidden
 	Close_ImageButton.Image = closeIcon
